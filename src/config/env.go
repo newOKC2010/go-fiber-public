@@ -38,7 +38,7 @@ func CalculateAge(birthYear int) int {
 
 // Format user greeting
 func FormatGreeting(name string) string {
-	return fmt.Sprintf("สวัสดี %s! ยินดีต้อนรับเข้าสู่ระบบ", name)
+	return fmt.Sprintf("สวัสดี %s! ยินดีต้อนรับเข้าสู่ระบบ นี่คือการทดสอบ", name)
 }
 
 // Check if number is even
